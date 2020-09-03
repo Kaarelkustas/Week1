@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\HowOldareYou\HowOldareYou\obj\Debug\netcoreapp3.1\HowOldareYou.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\HowOldareYou\HowOldareYou\obj\Debug\netcoreapp3.1\HowOldareYou.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\HowOldareYou\HowOldareYou\obj\Debug\netcoreapp3.1\HowOldareYou.AssemblyInfo.cs
+C:\Users\opilane\source\repos\HowOldareYou\HowOldareYou\obj\Debug\netcoreapp3.1\HowOldareYou.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\HowOldareYou\HowOldareYou\bin\Debug\netcoreapp3.1\HowOldareYou.exe
+C:\Users\opilane\source\repos\HowOldareYou\HowOldareYou\bin\Debug\netcoreapp3.1\HowOldareYou.deps.json
+C:\Users\opilane\source\repos\HowOldareYou\HowOldareYou\bin\Debug\netcoreapp3.1\HowOldareYou.runtimeconfig.json
+C:\Users\opilane\source\repos\HowOldareYou\HowOldareYou\bin\Debug\netcoreapp3.1\HowOldareYou.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\HowOldareYou\HowOldareYou\bin\Debug\netcoreapp3.1\HowOldareYou.dll
+C:\Users\opilane\source\repos\HowOldareYou\HowOldareYou\bin\Debug\netcoreapp3.1\HowOldareYou.pdb
+C:\Users\opilane\source\repos\HowOldareYou\HowOldareYou\obj\Debug\netcoreapp3.1\HowOldareYou.dll
+C:\Users\opilane\source\repos\HowOldareYou\HowOldareYou\obj\Debug\netcoreapp3.1\HowOldareYou.pdb
+C:\Users\opilane\source\repos\HowOldareYou\HowOldareYou\obj\Debug\netcoreapp3.1\HowOldareYou.genruntimeconfig.cache
